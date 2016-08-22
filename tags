@@ -1,0 +1,24 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+MAX_BUFFER	mpitest.cpp	10;"	d	file:
+OMPI_IMPORTS	mpitest.cpp	8;"	d	file:
+Tic	mpitest.cpp	/^		Tic(){}$/;"	f	class:Tic	file:
+Tic	mpitest.cpp	/^class Tic{$/;"	c	file:
+Trace	mpitest.cpp	82;"	d	file:
+dtic	mpitest.cpp	/^		inline static double dtic(){$/;"	f	class:Tic
+f	mpitest.cpp	/^inline double f(double a){$/;"	f
+fpi	mpitest.cpp	/^double fpi(double x){$/;"	f
+getTimeMs	mpitest.cpp	/^		inline static long getTimeMs(){$/;"	f	class:Tic
+lastTime	mpitest.cpp	/^		static long lastTime;$/;"	m	class:Tic	file:
+lastTime	mpitest.cpp	/^long Tic::lastTime=0;$/;"	m	class:Tic	file:
+main	mpitest.cpp	/^int main(int argc,char *argv[]){$/;"	f
+main2	mpitest.cpp	/^int main2(){$/;"	f
+mainPiTestOK	mpitest.cpp	/^int mainPiTestOK(int argc,char *argv[]){$/;"	f
+old_main	mpitest.cpp	/^int old_main(int argc,char *argv[]){$/;"	f
+printArr	mpitest.cpp	/^void printArr(int *arr,int size){$/;"	f
+test	mpitest.cpp	/^		static void test(){$/;"	f	class:Tic
+tic	mpitest.cpp	/^		static long tic(){$/;"	f	class:Tic
